@@ -14236,7 +14236,7 @@ a.logo.flex-column.text-center {
 
 @media (min-width: 1200px) {
 	#search_modal .widget:before {
-		background: url("../images/logo.png") no-repeat 0 0;
+		background: url('/static/images/digidude2.png') no-repeat 0 0;
 		content: "";
 		height: 100px;
 		opacity: 0.2;
